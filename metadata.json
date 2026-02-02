@@ -1,0 +1,8 @@
+
+{
+  "name": "Arabic Prestige Voice-Over Studio",
+  "description": "A professional-grade interface for generating high-fidelity, resonant Arabic male voice-overs using Gemini 2.5 TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
